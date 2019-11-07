@@ -1,0 +1,17 @@
+{
+  "name": "@aizatto/hapi-auth0-oauth",
+  "version": "0.0.1",
+  "main": "build/auth0.js",
+  "repository": "https://www.github.com/aizatto/hapi-auth0-oauth",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "*",
+    "typescript": "*"
+  },
+  "optionalDependencies": {
+    "@hapi/boom": "*",
+    "@hapi/hapi": "*",
+    "auth0": "*",
+    "node-fetch": "*"
+  }
+}
